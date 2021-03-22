@@ -1,6 +1,6 @@
 <h1> Sistema prenotaizone posto in aula Covid-19 </h1>
 
-<p>Il progetto è stato svolto per l'esame di ingneria del software, isi richiedeva di affrontare (ad alto livello) le varie fasi di sviluppo di software.</p>
+<p>Il progetto è stato svolto per l'esame di ingegneria del software, si richiedeva di affrontare (ad alto livello) le varie fasi di sviluppo di software.</p>
 
 <h2>Parti affrontate nel documento:</h2>
 
@@ -9,7 +9,7 @@
  <ul>
     <li>Requisiti sui dati</li>
     <li>Requisiti funzionali</li>
-    <li>Requisiti non funzionalii</li>
+    <li>Requisiti non funzionali</li>
     <li>Diagramma use-case</li>
  </ul>
  </p>  
@@ -30,5 +30,5 @@
   </ul>
 </p>
 
-*Coma da richiesta, il sistema non è completo, vengono date per scontate molte cose ed altre non sono state implemetate.*
+*Come da richiesta, il sistema non è completo, vengono date per scontate molte cose ed altre non sono state implemetate.*
 
